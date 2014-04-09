@@ -1,3 +1,5 @@
 name: gregschlom.com
-markdown: redcarpet
 pygments: true
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
