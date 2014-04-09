@@ -3,3 +3,5 @@ pygments: true
 markdown: redcarpet
 redcarpet:
   extensions: ["strikethrough"]
+gems:
+  - jekyll-redirect-from

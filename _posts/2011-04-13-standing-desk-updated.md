@@ -3,7 +3,7 @@ layout: post
 title: 'Update on the DIY standing desk: now with dual monitors, too'
 date: '2011-04-13T10:03:00+02:00'
 tags: []
-tumblr_url: http://gregschlom.com/post/4582855808/standing-desk-updated
+redirect_from: /post/4582855808/standing-desk-updated/
 ---
 The fine folks from [Grooveshark](http://www.grooveshark.com/) wrote in to let me know that the standing desk hack also works for people with a dual monitor set-up.
 

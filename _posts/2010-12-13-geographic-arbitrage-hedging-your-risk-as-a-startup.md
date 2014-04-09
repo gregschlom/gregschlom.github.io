@@ -3,7 +3,7 @@ layout: post
 title: 'Geographic Arbitrage: Hedging Your Risk As a Startup Founder by Going Abroad'
 date: '2010-12-13T05:22:00+01:00'
 tags: []
-tumblr_url: http://gregschlom.com/post/2300487726/geographic-arbitrage-hedging-your-risk-as-a-startup
+redirect_from: /post/2300487726/geographic-arbitrage-hedging-your-risk-as-a-startup/
 ---
 The idea behind geographic arbitrage, as defined in Tim Ferris’s book [The Four Hour Work Week](http://en.wikipedia.org/wiki/The_4-Hour_Workweek) (which I haven’t read) is to get paid in one currency, say US dollars, but live and spend the money in a much cheaper foreign country. This concept works well for freelancers, and interestingly enough, it also applies very well to bootstrapping startups.
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Qt developers rejoice: KDE Frameworks has been announced.'
 date: '2011-06-08T04:01:00+02:00'
 tags: []
-tumblr_url: http://gregschlom.com/post/6316733102/kde-frameworks-qt-developers
+redirect_from: /post/6316733102/kde-frameworks-qt-developers/
 ---
 I’m back from a week in Randa, Switzerland, where 60 KDE developers where gathered to discuss, among other things, the future of KDE. And it is quite exciting.
 
