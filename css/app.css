@@ -1,0 +1,70 @@
+/*
+Palette: (◕ ” ◕) by Sugar!
+http://www.colourlovers.com/palette/848743
+
+#490A3D - Party Confetti (purple)
+#BD1550 - Sugar Hearts You (pink)
+#E97F02 - Sugar Cocktail (orange)
+#F8CA00 - Burst of Euphoria (yellow)
+#8A9B0F - Happy Balloon (green)
+*/
+
+/* Global styles */
+
+body {
+	background-color: #f2f2e6; /* pale yellow */
+}
+
+h1, h2, h3 {
+	font-weight: bold;
+    font-family: 'PT Sans Narrow', 'Helvetica', 'Arial', sans-serif;
+    color: #8A9B0F; /* Happy Balloon */
+}
+
+a {
+	color: #E97F02; /* Sugar Cocktail */
+    text-decoration: none;
+}
+
+a:hover {
+	color: #F8CA00; /* Burst of Euphoria */
+	text-decoration: none;
+}
+
+p {
+	font-size: 1.4em;
+	color: #333314;
+	margin-bottom: 1.5em;
+}
+
+/* Navbar */
+
+.navbar {
+	background-color: #490A3D; /* Party Confetti */
+	border-bottom: 8px solid #BD1550; /* Sugar Hearts You */
+}
+
+.navbar-brand {
+	height: auto; /* Bootstrap sets the height to 50px. We reset that to the height of the avatar */
+}
+
+.navbar-inverse .navbar-brand {
+	color: #E97F02; /* Sugar Cocktail */
+}
+
+.navbar-inverse .navbar-brand:hover {
+	color: #F8CA00; /* Burst of Euphoria */
+}
+
+.avatar {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+
+.post {
+	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+	text-rendering: optimizeLegibility;
+	line-height: 1.5;
+}

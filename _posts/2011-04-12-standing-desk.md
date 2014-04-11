@@ -2,7 +2,7 @@
 layout: post
 title: How to hack yourself a standing desk in 3 easy steps - an illustrated guide
 date: '2011-04-12T10:14:00+02:00'
-tags: []
+categories: essays
 redirect_from: /post/4555981908/standing-desk/
 ---
 Standing desks are ~~the latest trend~~ [all](http://news.ycombinator.com/item?id=1835634) [the](http://thingsthatwelearn.com/#334875/Standing-Desk-Project) [rage](http://news.ycombinator.com/item?id=2394868) in modern software development. All the cool guys are coding standing now.
