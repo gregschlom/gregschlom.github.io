@@ -22,7 +22,7 @@ In this guide, I’m going to teach you how to make your very own adjustable-hei
 
 Just follow this tutorial, lovingly illustrated with my best MS paint skills.
 
-### Step 1. ###
+## Step 1. ##
 
 Lower your chair to the minimum:
 
@@ -30,7 +30,7 @@ Lower your chair to the minimum:
 
 (If you don’t have an adjustable height office chair, you can stop here and get yourself a decent chair)
 
-### Step 2. ###
+## Step 2. ##
 
 Get your fat ass off your chair, put the chair on the desk, and your Mac Air Book Pro on the chair.
 
@@ -38,7 +38,7 @@ Get your fat ass off your chair, put the chair on the desk, and your Mac Air Boo
 
 (Of course, if you have a [SPARC server](http://www.vibrant.com/images/products/sun_m9000.jpg), you have two problems now.)
 
-### Step 3. ###
+## Step 3. ##
 
 Adjust the height of the chair as needed, and enjoy your new standing desk.
 

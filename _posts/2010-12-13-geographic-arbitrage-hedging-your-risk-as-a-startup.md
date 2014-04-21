@@ -11,7 +11,7 @@ The idea behind geographic arbitrage, as defined in Tim Ferris’s book [The Fou
 
 (above: Con Dau Islands, Vietnam, where I spent a few days. This is *not* a stock picture)
 
-### Bootstrapping in Vietnam ###
+## Bootstrapping in Vietnam ##
 
 I’m writing those words from a beach-front restaurant in Mui Ne, Vietnam’s best spot for kite-surfing, waiting for the wind to hopefully rise this afternoon. 10 months ago, I was in Paris, looking for a job, searching for my soul. What the hell was I supposed to do with my life, now that college was over?
 
@@ -19,7 +19,7 @@ Founding a startup is something that has always been in my mind. But as everyone
 
 3 months later, I was moving to Hô Chi Minh City, Vietnam’s economic capital, with two French developers that I had recruited in Paris for a 6 months internship in my soon-to-be startup. We’ve spent the last 5 months working non-stop on [BetterInbox](http://betterinbox.com/), and I’d like to share my thought on how things are going in Vietnam.
 
-### Cost ###
+## Cost ##
 
 This is a no-brainer. Vietnam is an incredibly inexpensive place to live in. You’ll find a room for $200, a good meal will cost $2, a beer costs $1, air is free, and that’s basically all you need. I’m spending around $800 a month here, less than what my rent alone would cost me in Paris. And this includes all the trips and tourism during the weekends.
 
@@ -29,13 +29,13 @@ It’s also easy to cut payroll costs down, either by employing local people, or
 
 A woman looks at the rain in Saigon. Still sunny.
 
-### Happiness ###
+## Happiness ##
 
 But way more important than any cost-cuttings is the happiness that comes out of enjoying life in a cheap and sunny country. Had I stayed in Paris, I would have spent those 5 months living on a budget, having to watch every euro I spend, and with a rather unattractive weather. Being in Vietnam, on the other hand, there’s the constant joy of doing something new each weekend, discovering new places, going to the beach, and more generally, living the life of a high-revenue guy, except with zero income.
 
 Needless to say, when you are a startup founder, this is a tremendous morale booster.
 
-### Other benefits ###
+## Other benefits ##
 
 Other things that I’ve noticed, as a geographically-arbitraged startup founder:
 
@@ -50,7 +50,7 @@ Other things that I’ve noticed, as a geographically-arbitraged startup founder
 - And, not startup-related, but worth mentioning: you’ll find a whole lot of new friends :)
 
 
-### Bottom line ###
+## Bottom line ##
 
 After those 5 months spent in Vietnam, I can tell you that not only this is a fantastic experience, but also that I would have never been able to get that far, had I stayed in Paris.
 
