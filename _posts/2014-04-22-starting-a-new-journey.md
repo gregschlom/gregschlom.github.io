@@ -21,7 +21,7 @@ Speaking of which...
 
 ## The Game ##
 
-As you may know, I'm working on a still unnamed indie game project. It's about a girl, Emily, who finds a tunnel in the New York subway that takes her to a strange tropical island. As she explore the island, she starts to realize that this place is actually her own consciousness.
+As you may know, I'm working on a still unnamed indie game project. It's about a girl, Emily, who finds a tunnel in the New York subway that takes her to a strange tropical island. As she explores the island, she starts to realize that this place is actually her own consciousness.
 
 I've been working full-time on this game for the past few weeks, and I'm super excited with what I have so far. Not that I have much, mind you, but the tiniest thing makes me happy. After working on the sea and the trees back in March, I finally did my first piece of land! 
 
