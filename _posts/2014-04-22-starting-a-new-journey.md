@@ -2,22 +2,8 @@
 layout: post
 title: 'Starting a New Journey'
 date: '2014-04-22T10:14:00+02:00'
-categories: news
+categories: devlog
 ---
-## Petite intro en Français ##
-**(English version follows)**
-
-Ca y est, après 3 ans d'inactivité, je relance ma newsletter ! Si vous recevez ce message, c'est parce qu'à un moment ou un autre nos chemins se sont croisés et nous nous sommes dits que ce serait bien de rester en contact. 
-
-Et en 3 ans, il s'est passé beaucoup de choses. J'ai eu le temps de m'installer dans cette ville fantastique qu'est San Francisco, d'y passer deux années incroyables, et d'en repartir. Je me lance désormais sur un projet de jeu-vidéo - ou de livre, je ne sais pas très bien comment le décrire - et j'en profite pour découvrir des nouveaux endroits du monde.
-
-Je suis à Paris jusqu'au 15 mai, avant de partir pour le Cap-Vert (3 mois), puis San Francisco à nouveau pour le festival Burning Man (3 semaines), et ensuite... on verra bien !
-
-Mais San Francisco m'a marqué surtout par les amis fantastiques que j'y ait rencontré, et avec qui j'aimerais aussi rester en contact. C'est pourquoi je passe désormais à l'anglais pour mes newsletter. Toutes mes excuses à ma famille et mes amis francophones :)
-
-
-## And now, let's resume where we left off ##
-
 Goodbye San Francisco, I love you but I had to go. I learned that word recently: "wanderlust". This is what I feel, this is why I left. To loose myself, and we'll see what's left.
 
 I'm in Paris now for the next couple of weeks. After 2 years in San Francisco, I forgot how big this city is. People, people, people everywhere. Walking around, talking aloud, running past you. The familiar streets bring back childhood memories. But something has changed now: me. I've seen another sky, I've breathed another air, and now I feel estranged from the city I once called home. 
@@ -65,7 +51,7 @@ Next steps: improve the ocean, add some trees, a couple of clouds and the sun. R
 
 ## Outro ##
 
-That's all folks! That was the first installment of my not-really-monthly newsletter. Expect a new one in a couple of weeks, sharing my first impressions of Cape Verde and more screenshots!
+That's all folks! That was the first installment of the development log (devlog) of my game. Expect a new one in a couple of weeks, sharing my first impressions of Cape Verde and more screenshots!
 
 If you read this far, please email me and tell me a little bit about yourself :)
 
