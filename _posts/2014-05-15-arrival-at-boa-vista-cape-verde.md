@@ -29,7 +29,7 @@ We arrive at the city center, and my driver drops me off in front of a real esta
 
 I'm happy that things went so easily, so smoothly. Speaking Portuguese makes everything easier, of course, but the Cape-Verdians I met were all exceptionnally nice and helpful. An hour ago I was homeless, wondering where the hell I was going to sleep, and now I have a nice and relatively affordable place to stay. I take a shower and a quick nap to wash away the weariness of the travel, put my shorts and my flip-flops on, and take off to check the beach nearby.
 
-![My new appartment]({{ site.url }}/assets/arrival_boa_vista/room.jpg)
+![My new appartment]({{ site.url }}/assets/arrival_boa_vista/room.JPG)
 My new appartment
 
-![My new appartment]({{ site.url }}/assets/arrival_boa_vista/room_view.jpg)
+![My new appartment]({{ site.url }}/assets/arrival_boa_vista/room_view.JPG)
