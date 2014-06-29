@@ -7,7 +7,7 @@ categories: devlog
 
 I recently came across the excellent article [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/) from Mike Bostock. If you have no idea what "sampling" means or what's Poisson-disc sampling, just read that article, it's beautifully explained.
 
-In a nutshell, Poisson-disc sampling creates nice, uniform-looking randomness, without over-crowded or underpopulated spots. For example, imagine that you're trying to plant trees randomly on a 100m x 100m terrain. You could use a random number generator to pick two numbers between 0 and 100, go to that location and plant the tree there, then repeat for as many trees you want to plant. Unfortunately, this method will give you areas where there are a lot of trees together and others with no trees at all, which may look unrealistic. With Poisson-disc sampling, you essentially say that you want all trees to be at least, say, 3 meters apart from each other, and at most 6 meters apart.
+In a nutshell, Poisson-disc sampling creates nice, uniform-looking randomness, without over-crowded or underpopulated spots. For example, imagine that you're trying to plant trees randomly on a 100m x 100m terrain. You could use a random number generator to pick two numbers between 0 and 100, go to that location and plant the tree there, then repeat for as many trees you want to plant. Unfortunately, this method will give you areas with too many trees and others with no trees at all, which may look unrealistic. With Poisson-disc sampling, you essentially say that you want all trees to be at least, say, 3 meters apart from each other, and at most 6 meters apart.
 
 (If you think nobody plants trees that way, you've obviously never tried to plant trees in code :)
 
