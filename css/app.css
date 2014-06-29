@@ -69,3 +69,11 @@ p {
 .post img {
 	max-width:600px;
 }
+
+pre {
+    overflow-x: auto;
+}
+pre code {
+    overflow-wrap: normal;
+    white-space: pre;
+}
