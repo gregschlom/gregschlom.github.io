@@ -104,7 +104,7 @@ public class PoissonDiscSampler
 
         int xmin = Mathf.Max(pos.x - 2, 0);
         int ymin = Mathf.Max(pos.y - 2, 0);
-        int xmax = Mathf.Min(pos.x + 2, grid.GetLength(1) - 1);
+        int xmax = Mathf.Min(pos.x + 2, grid.GetLength(0) - 1);
         int ymax = Mathf.Min(pos.y + 2, grid.GetLength(1) - 1);
 
         for (int y = ymin; y <= ymax; y++) {
